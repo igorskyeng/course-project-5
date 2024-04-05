@@ -1,0 +1,1650 @@
+[
+  {
+    "id": "95090779",
+    "premium": false,
+    "name": "Junior Backend Developer (Python и SQL)",
+    "department": null,
+    "has_test": true,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 50000,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-04T04:43:07+0300",
+    "created_at": "2024-04-04T04:43:07+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95090779",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95090779?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95090779",
+    "relations": [],
+    "employer": {
+      "id": "5557093",
+      "name": "e-Comet",
+      "url": "https://api.hh.ru/employers/5557093",
+      "alternate_url": "https://hh.ru/employer/5557093",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/867358.png",
+        "90": "https://img.hhcdn.ru/employer-logo/3910307.png",
+        "240": "https://img.hhcdn.ru/employer-logo/3910308.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5557093",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Высшее образование (можно неоконченное/неполное) технического ВУЗа последнего или предпоследнего курса. Логичный и структурированный подход к решению задач, способность аргументированно...",
+      "responsibility": "Желание расти с проектом и учиться новым технологиям, расширять компетенции. Написание качественного кода и тестов к нему."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95690687",
+    "premium": false,
+    "name": "Node.js Backend Разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-28T12:16:21+0300",
+    "created_at": "2024-03-28T12:16:21+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95690687",
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95690687?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95690687",
+    "relations": [],
+    "employer": {
+      "id": "10263543",
+      "name": "Ким Олег Леонидович",
+      "url": "https://api.hh.ru/employers/10263543",
+      "alternate_url": "https://hh.ru/employer/10263543",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10263543",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Опыт работы с Nest.js, TypeScript и PostgreSQL. Желание учиться и развиваться в области разработки программного обеспечения. Понимание основных принципов разработки...",
+      "responsibility": "Тестирование и разработка высокопроизводительного и масштабируемого бэкенда на Node.js. Интеграция с внешними API. Участие в разработке и поддержке масштабируемых архитектурных..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "96091254",
+    "premium": false,
+    "name": "Back-end разработчик Ruby on Rails",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 280000,
+      "to": 320000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-03T12:59:29+0300",
+    "created_at": "2024-04-03T12:59:29+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96091254",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/96091254?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/96091254",
+    "relations": [],
+    "employer": {
+      "id": "2954121",
+      "name": "Rerooms",
+      "url": "https://api.hh.ru/employers/2954121",
+      "alternate_url": "https://hh.ru/employer/2954121",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/443063.png",
+        "90": "https://img.hhcdn.ru/employer-logo/2214219.png",
+        "240": "https://img.hhcdn.ru/employer-logo/2214220.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2954121",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Опыт коммерческой и командной разработки на RoR от 3 лет. Желательно знание Angular. Умение самостоятельно разобраться в проблеме и предложить...",
+      "responsibility": "Разработка нового функционала CRM систем на Ruby on Rails для удаленного взаимодействия дизайнеров и клиентов. Подключение сторонних сервисов к работе..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "94548134",
+    "premium": false,
+    "name": "Middle backend .NET разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 180000,
+      "to": 230000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": null,
+      "street": null,
+      "building": null,
+      "lat": null,
+      "lng": null,
+      "description": null,
+      "raw": null,
+      "metro": {
+        "station_name": "Тульская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.142",
+        "line_id": "9",
+        "lat": 55.70961,
+        "lng": 37.622569
+      },
+      "metro_stations": [
+        {
+          "station_name": "Тульская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.142",
+          "line_id": "9",
+          "lat": 55.70961,
+          "lng": 37.622569
+        }
+      ],
+      "id": "3018637"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-11T17:17:20+0300",
+    "created_at": "2024-03-11T17:17:20+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94548134",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/94548134?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/94548134",
+    "relations": [],
+    "employer": {
+      "id": "1673345",
+      "name": "Артхаус софт",
+      "url": "https://api.hh.ru/employers/1673345",
+      "alternate_url": "https://hh.ru/employer/1673345",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/677772.png",
+        "240": "https://img.hhcdn.ru/employer-logo/3152221.png",
+        "90": "https://img.hhcdn.ru/employer-logo/3152220.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1673345",
+      "accredited_it_employer": true,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Отличное понимание .NET Framework, и опыт работы с .NET Core. Опыт работы со стеком не менее 2 лет. ",
+      "responsibility": "Разработка и поддержка существующего программного обеспечения - ГИС для автоматизации контрольно-надзорной деятельности (в эксплуатации с 2017 года). Участие в проектировании..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95878315",
+    "premium": false,
+    "name": "Backend Developer (Node.js) Junior+",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 100000,
+      "to": 130000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-04T12:18:46+0300",
+    "created_at": "2024-04-04T12:18:46+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95878315",
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95878315?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95878315",
+    "relations": [],
+    "employer": {
+      "id": "10542025",
+      "name": "Русские Механические Технологии",
+      "url": "https://api.hh.ru/employers/10542025",
+      "alternate_url": "https://hh.ru/employer/10542025",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10542025",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Коммерческий опыт разработки от 6+ месяцев: Профессиональное владение JavaScript ES6+, Typescript и SQL. Знания и практический опыт...",
+      "responsibility": "Основной язык программирования: Node.js, NestJS для backend-разработки. Базы данных: PostgreSQL, MySQL, с использованием Redis для кэширования. Обмен данными: REST..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95703599",
+    "premium": false,
+    "name": "Backend PHP/Laravel Middle разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-28T14:16:36+0300",
+    "created_at": "2024-03-28T14:16:36+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95703599",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95703599?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95703599",
+    "relations": [],
+    "employer": {
+      "id": "5446080",
+      "name": "Golden Soft",
+      "url": "https://api.hh.ru/employers/5446080",
+      "alternate_url": "https://hh.ru/employer/5446080",
+      "logo_urls": {
+        "90": "https://img.hhcdn.ru/employer-logo/5388872.png",
+        "240": "https://img.hhcdn.ru/employer-logo/5388873.png",
+        "original": "https://img.hhcdn.ru/employer-logo-original/963713.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5446080",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Стек технологий: Backend: PHP/Laravel. Требуется знание базы данных Mysql. Знание Rest API. Большим плюсом будет знание vue.js, а так...",
+      "responsibility": null
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95563777",
+    "premium": false,
+    "name": "Laravel-Backend разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": true,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-26T17:12:15+0300",
+    "created_at": "2024-03-26T17:12:15+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95563777",
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95563777?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95563777",
+    "relations": [],
+    "employer": {
+      "id": "10175687",
+      "name": "Якунин Владислав Иванович",
+      "url": "https://api.hh.ru/employers/10175687",
+      "alternate_url": "https://hh.ru/employer/10175687",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10175687",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Писать качественный, надёжный код на PHP (Laravel). - Ответственно подходить к выполнению задач. - Уверенная работа с Linux. - Наличие опыта работы с...",
+      "responsibility": "Примерно рассчитывать время необходимое на реализацию задач."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "76709182",
+    "premium": false,
+    "name": "C# developer junior / middle (.net, full-stack / back-end)",
+    "department": null,
+    "has_test": true,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 100000,
+      "to": 280000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "улица Правды",
+      "building": "26",
+      "lat": 55.790687657162835,
+      "lng": 37.58470127116276,
+      "description": null,
+      "raw": "Москва, улица Правды, 26",
+      "metro": {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      },
+      "metro_stations": [
+        {
+          "station_name": "Белорусская",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.19",
+          "line_id": "2",
+          "lat": 55.777439,
+          "lng": 37.582107
+        },
+        {
+          "station_name": "Савёловская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.128",
+          "line_id": "9",
+          "lat": 55.794054,
+          "lng": 37.587163
+        }
+      ],
+      "id": "1494631"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-29T12:38:12+0300",
+    "created_at": "2024-03-29T12:38:12+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=76709182",
+    "branding": {
+      "type": "MAKEUP",
+      "tariff": null
+    },
+    "show_logo_in_search": true,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/76709182?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/76709182",
+    "relations": [],
+    "employer": {
+      "id": "205152",
+      "name": "Mindbox",
+      "url": "https://api.hh.ru/employers/205152",
+      "alternate_url": "https://hh.ru/employer/205152",
+      "logo_urls": {
+        "240": "https://img.hhcdn.ru/employer-logo/6259459.png",
+        "90": "https://img.hhcdn.ru/employer-logo/6259458.png",
+        "original": "https://img.hhcdn.ru/employer-logo-original/1159752.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=205152",
+      "accredited_it_employer": true,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Опыт веб разработки с помощью C# и SQL в production. Чистый код, шаблоны архитектуры.",
+      "responsibility": "Net7+ везде, многое в k8s. Монолит — не легаси, поддерживаем на актуальном стеке и активно развиваем, 20..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95858754",
+    "premium": false,
+    "name": "Backend developer (middle+/senior)",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 200000,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "проспект Мира",
+      "building": "102с31",
+      "lat": 55.80059277851835,
+      "lng": 37.63948485648314,
+      "description": null,
+      "raw": "Москва, проспект Мира, 102с31",
+      "metro": {
+        "station_name": "Алексеевская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.8",
+        "line_id": "6",
+        "lat": 55.807794,
+        "lng": 37.638699
+      },
+      "metro_stations": [
+        {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        }
+      ],
+      "id": "3975226"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-01T09:25:26+0300",
+    "created_at": "2024-04-01T09:25:26+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95858754",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95858754?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95858754",
+    "relations": [],
+    "employer": {
+      "id": "4744797",
+      "name": "Hello, Doc!",
+      "url": "https://api.hh.ru/employers/4744797",
+      "alternate_url": "https://hh.ru/employer/4744797",
+      "logo_urls": {
+        "240": "https://img.hhcdn.ru/employer-logo/3450606.png",
+        "90": "https://img.hhcdn.ru/employer-logo/3450605.png",
+        "original": "https://img.hhcdn.ru/employer-logo-original/752411.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4744797",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Твердое знание Python 3, Django (DRF), Celery, SQL. - Опыт проектирования БД и REST API. - Опыт написания юнит-тестов. - ",
+      "responsibility": "Проектирование (с точки зрения бекенда) и разработка нового функционала. - Рефакторинг и оптимизация под растущий нагрузки старых компонентов. - Отвечать за качество..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "94405309",
+    "premium": false,
+    "name": "Разработчик бекэнда",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-07T14:56:19+0300",
+    "created_at": "2024-03-07T14:56:19+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94405309",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/94405309?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/94405309",
+    "relations": [],
+    "employer": {
+      "id": "10860558",
+      "name": "Хиноверов Артем Владимирович",
+      "url": "https://api.hh.ru/employers/10860558",
+      "alternate_url": "https://hh.ru/employer/10860558",
+      "logo_urls": {
+        "240": "https://img.hhcdn.ru/employer-logo/6603090.jpeg",
+        "90": "https://img.hhcdn.ru/employer-logo/6603089.jpeg",
+        "original": "https://img.hhcdn.ru/employer-logo-original/1245665.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10860558",
+      "accredited_it_employer": false,
+      "trusted": false
+    },
+    "snippet": {
+      "requirement": "знание PHP и любого современного фреймворка (у нас Symfony). - знание принципов ООП. - знание паттернов программирования. - пользователь Docker и Linux. ",
+      "responsibility": "Работа над информационным Игровым Сайтом, частичная или проектная занятость. Обязанности: - разработка Backend части информационного сайта. - поддержка и развитие существующей системы. - "
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "part",
+      "name": "Частичная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "96125396",
+    "premium": false,
+    "name": "Программист PHP разработчик (junior backend developer)",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 45000,
+      "to": 55000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "улица Кузнецкий Мост",
+      "building": "21/5",
+      "lat": 55.762004,
+      "lng": 37.626448,
+      "description": null,
+      "raw": "Москва, улица Кузнецкий Мост, 21/5",
+      "metro": null,
+      "metro_stations": [],
+      "id": "12718456"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-03T19:16:06+0300",
+    "created_at": "2024-04-03T19:16:06+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96125396",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/96125396?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/96125396",
+    "relations": [],
+    "employer": {
+      "id": "2612496",
+      "name": "Международный Центр Профессионального Образования",
+      "url": "https://api.hh.ru/employers/2612496",
+      "alternate_url": "https://hh.ru/employer/2612496",
+      "logo_urls": {
+        "90": "https://img.hhcdn.ru/employer-logo/3239784.jpeg",
+        "240": "https://img.hhcdn.ru/employer-logo/3239785.jpeg",
+        "original": "https://img.hhcdn.ru/employer-logo-original/699667.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2612496",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Высшее образование (профильное) / В том числе студент. - Умение проектировать Базы Данных. - Опыт работы над проектами на ранних стадиях. - ",
+      "responsibility": "Разрабатывать функционал в рамках поставленных задач (PHP/Laravel, Javascript/jQuery, MySQL). - Решать задачи по автоматизации внутренних процессов. - Реализовывать интеграции по..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95116499",
+    "premium": false,
+    "name": "Backend-разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "Пресненская набережная",
+      "building": "8с1",
+      "lat": 55.747115,
+      "lng": 37.539087,
+      "description": null,
+      "raw": "Москва, Пресненская набережная, 8с1",
+      "metro": null,
+      "metro_stations": [],
+      "id": "15226640"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-20T11:42:11+0300",
+    "created_at": "2024-03-20T11:42:11+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95116499",
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95116499?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95116499",
+    "relations": [],
+    "employer": {
+      "id": "10630560",
+      "name": "GGsel",
+      "url": "https://api.hh.ru/employers/10630560",
+      "alternate_url": "https://hh.ru/employer/10630560",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10630560",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Соответствовать требованиям стандартов безопасности. — Хорошее знание PHP, Laravel. — Умение отлично программировать, в том числе решать логические задачи. — Понимать принцип работы...",
+      "responsibility": "Разрабатывать бэкенд для сервиса обмена игровых предметов, торговой площадки игровых предметов, сервиса анализа и прогнозирования цен, вид. — Писать тесты."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95212262",
+    "premium": false,
+    "name": "NodeJS Backend Developer",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 150000,
+      "to": 500000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "Ботаническая улица",
+      "building": "10Дс1",
+      "lat": 55.845466,
+      "lng": 37.588485,
+      "description": null,
+      "raw": "Москва, Ботаническая улица, 10Дс1",
+      "metro": null,
+      "metro_stations": [],
+      "id": "14823973"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-21T15:07:11+0300",
+    "created_at": "2024-03-21T15:07:11+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95212262",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95212262?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95212262",
+    "relations": [],
+    "employer": {
+      "id": "10622952",
+      "name": "The First Studios",
+      "url": "https://api.hh.ru/employers/10622952",
+      "alternate_url": "https://hh.ru/employer/10622952",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/1254787.png",
+        "90": "https://img.hhcdn.ru/employer-logo/6639577.png",
+        "240": "https://img.hhcdn.ru/employer-logo/6639578.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10622952",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Будет плюсом. Database transactions, query & schema optimization, migrations.",
+      "responsibility": null
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95435575",
+    "premium": false,
+    "name": "Backend-разработчик на Golang (Junior+)",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 100000,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-25T12:49:43+0300",
+    "created_at": "2024-03-25T12:49:43+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95435575",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95435575?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95435575",
+    "relations": [],
+    "employer": {
+      "id": "10576580",
+      "name": "Vortex",
+      "url": "https://api.hh.ru/employers/10576580",
+      "alternate_url": "https://hh.ru/employer/10576580",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/1201091.png",
+        "240": "https://img.hhcdn.ru/employer-logo/6424814.png",
+        "90": "https://img.hhcdn.ru/employer-logo/6424813.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10576580",
+      "accredited_it_employer": false,
+      "trusted": false
+    },
+    "snippet": {
+      "requirement": "Практическое знание синтаксиса языка Golang. Понимание технологий веб-сервисов (HTTP протокол). Опыт работы с СУБД PostgreSQL. Библиотека GORM. ",
+      "responsibility": "Проектирование и разработка компонентов бэкенда внутреннего торгового терминала и сопутствующих сервисов."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95843795",
+    "premium": false,
+    "name": "Senior Backend Developer Node.js",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 300000,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-31T18:20:26+0300",
+    "created_at": "2024-03-31T18:20:26+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95843795",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95843795?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95843795",
+    "relations": [],
+    "employer": {
+      "id": "10710642",
+      "name": "Radium Finance",
+      "url": "https://api.hh.ru/employers/10710642",
+      "alternate_url": "https://hh.ru/employer/10710642",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/1254219.jpeg",
+        "90": "https://img.hhcdn.ru/employer-logo/6637305.jpeg",
+        "240": "https://img.hhcdn.ru/employer-logo/6637306.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10710642",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Понимаете, когда привнесение новой библиотеки или нового подхода принесёт пользу, а когда потребует только лишних усилий. Если не знаете чего...",
+      "responsibility": "Разработка и сопровождение серверных компонентов и сервисов с использованием Node.js, обеспечивая масштабируемость, производительность и надежность. Проектирование, внедрение и поддержка RESTful..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "moreThan6",
+      "name": "Более 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95815508",
+    "premium": false,
+    "name": "Middle Backend разработчик",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 180000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-04T18:27:09+0300",
+    "created_at": "2024-04-04T18:27:09+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95815508",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95815508?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95815508",
+    "relations": [],
+    "employer": {
+      "id": "4891674",
+      "name": "Ваняшин Роман Дмитриевич",
+      "url": "https://api.hh.ru/employers/4891674",
+      "alternate_url": "https://hh.ru/employer/4891674",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/877394.png",
+        "240": "https://img.hhcdn.ru/employer-logo/3950452.png",
+        "90": "https://img.hhcdn.ru/employer-logo/3950451.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4891674",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Работа в Python, Django, FastAPI, Postgresql, Mysql, Redis, k8s, Grafana, Docker.",
+      "responsibility": "Разработка API. Разработка архитектурных решений действующего проекта. Интеграции с внешними сервисами. Проводить тех. анализ фич и декомпозировать задачи. "
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "94205348",
+    "premium": false,
+    "name": "Разработчик C# Midlle / .Net 7 Back-end",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "проезд Серебрякова",
+      "building": "14с15",
+      "lat": 55.846396,
+      "lng": 37.655544,
+      "description": null,
+      "raw": "Москва, проезд Серебрякова, 14с15",
+      "metro": null,
+      "metro_stations": [],
+      "id": "10705880"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-03T13:43:30+0300",
+    "created_at": "2024-04-03T13:43:30+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94205348",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/94205348?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/94205348",
+    "relations": [],
+    "employer": {
+      "id": "1173119",
+      "name": "НК Джакс",
+      "url": "https://api.hh.ru/employers/1173119",
+      "alternate_url": "https://hh.ru/employer/1173119",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/500972.png",
+        "90": "https://img.hhcdn.ru/employer-logo/2445641.png",
+        "240": "https://img.hhcdn.ru/employer-logo/2445642.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1173119",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Опыт работы с C# от года (коммерческий или инди-команда) Уверенное знание: -Коллекции, IEnumerable. -Лямбды, LINQ. -Интерфейсы/абстрактные классы/наследование...",
+      "responsibility": "Разработка систем анализа и обработки данных, в т.ч. Big data. Автоматизация бизнес-операций и интеграция с текущими процессами. "
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95634061",
+    "premium": false,
+    "name": "Бэкенд-разработчик Python (middle)",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 190000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Павловский Посад",
+      "street": "улица Свердлова",
+      "building": "20",
+      "lat": 55.780061,
+      "lng": 38.656402,
+      "description": null,
+      "raw": "Павловский Посад, улица Свердлова, 20",
+      "metro": null,
+      "metro_stations": [],
+      "id": "2748016"
+    },
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-03-27T15:35:05+0300",
+    "created_at": "2024-03-27T15:35:05+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95634061",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95634061?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95634061",
+    "relations": [],
+    "employer": {
+      "id": "4107612",
+      "name": "Лаборато",
+      "url": "https://api.hh.ru/employers/4107612",
+      "alternate_url": "https://hh.ru/employer/4107612",
+      "logo_urls": {
+        "original": "https://img.hhcdn.ru/employer-logo-original/654117.jpg",
+        "90": "https://img.hhcdn.ru/employer-logo/3057616.jpeg",
+        "240": "https://img.hhcdn.ru/employer-logo/3057617.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4107612",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "уверенное знание Python. - знание SQL и опыт работы с PostgreSQL. Базовые знания Linux, включая Nginx, Gunicorn, Systemd. - обязательный опыт самостоятельной...",
+      "responsibility": "Разработка ПО. Разработка веб сайтов. Разработка мобильных приложений. SMM / SEO продвижение. Разработка железа и драйверов. - разработка, code review и рефакторинг..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  },
+  {
+    "id": "95878834",
+    "premium": false,
+    "name": ".NET Backend / Fullstack разработчик (удалённо)",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-04-01T12:21:06+0300",
+    "created_at": "2024-04-01T12:21:06+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95878834",
+    "show_logo_in_search": null,
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/95878834?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/95878834",
+    "relations": [],
+    "employer": {
+      "id": "10325302",
+      "name": "Смайл Текнолоджис",
+      "url": "https://api.hh.ru/employers/10325302",
+      "alternate_url": "https://hh.ru/employer/10325302",
+      "logo_urls": {
+        "240": "https://img.hhcdn.ru/employer-logo/6279635.jpeg",
+        "90": "https://img.hhcdn.ru/employer-logo/6279634.jpeg",
+        "original": "https://img.hhcdn.ru/employer-logo-original/1164798.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10325302",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "snippet": {
+      "requirement": "Опыт работы с .Net Core и Asp.Net. Опыт работы с Entity Framework Core. Опыт работы с реляционными базами данных. ",
+      "responsibility": "В связи с ростом команды мы находимся в поисках .NET разработчика. Задачи разработчика включают в себя: проектирование и реализацию логики..."
+    },
+    "contacts": null,
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+  }
+]
