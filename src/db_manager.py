@@ -2,8 +2,6 @@
 import psycopg2
 from data.data_hhru import HeadHunterAPI
 
-conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
-
 list_of_vacancies = HeadHunterAPI.load_vacancies_from_json()
 
 
@@ -11,6 +9,8 @@ class DBManager:
     @staticmethod
     def filling_in_the_database():
         """Записывает все найденные вакансии в базу данных PosgreSQL"""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
@@ -28,12 +28,6 @@ class DBManager:
                                      list_of_vacancies[item]['snippet']['responsibility'],
                                      list_of_vacancies[item]['apply_alternate_url']))
 
-                    cur.execute("SELECT * FROM vacancy")
-
-                    rows = cur.fetchall()
-                    for row in rows:
-                        print(row)
-
         except psycopg2.errors.UniqueViolation as error:
             print(error)
 
@@ -43,6 +37,8 @@ class DBManager:
     @staticmethod
     def get_companies_and_vacancies_count():
         """Получает список всех компаний и количество вакансий у каждой компании."""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
@@ -64,6 +60,8 @@ class DBManager:
     def get_all_vacancies():
         """Получает список всех вакансий с указанием названия компании, названия вакансии и зарплаты и ссылки на
         вакансию."""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
@@ -83,6 +81,8 @@ class DBManager:
     @staticmethod
     def get_avg_salary():
         """Получает среднюю зарплату по вакансиям."""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
@@ -101,6 +101,8 @@ class DBManager:
     @staticmethod
     def get_vacancies_with_higher_salary():
         """Получает список всех вакансий, у которых зарплата выше средней по всем вакансиям."""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
@@ -120,6 +122,8 @@ class DBManager:
     @staticmethod
     def get_vacancies_with_keyword(keyword: str = 'Python'):
         """Получает список всех вакансий, в названии которых содержатся переданные в метод слова, например python."""
+        conn = psycopg2.connect(host='localhost', database='HeadHunterAPI(Vacancy)', user='postgres', password='12345')
+
         try:
             with (conn):
                 with conn.cursor() as cur:
