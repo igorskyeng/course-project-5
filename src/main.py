@@ -63,20 +63,10 @@ def main2():
     # Сохранение отсортированного списка вакансий.
     JSONVacancies.save_vacancy(vacancies_dict_json=hh_vacancies)
 
-    # Вывод информации по отсортированным вакансиям.
-    JSONVacancies.info_vacancy(1)
-
-    # Ввод пользователем номер вакансии на удаление.
-    deleted_vacancy = int(input('\nВведите вакансию, которую желаете удалить\n'))
-
-    # Удаление выбранной пользователем вакансии.
-    hh_vacancies = JSONVacancies.delete_vacancy(deleted_vacancy=deleted_vacancy)
-
-    # Сохранение отсортированного списка вакансий.
-    JSONVacancies.save_vacancy(vacancies_dict_json=hh_vacancies)
-
     # Вывод информации по отсортированным вакансиям
     JSONVacancies.info_vacancy(1)
+
+    DBManager.filling_in_the_database()
 
 
 main1()
